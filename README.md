@@ -9,3 +9,4 @@
 - Non-linear Classifier
   - boosted decision trees 
   - random forests
+  - neural networks
