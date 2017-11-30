@@ -4,10 +4,15 @@ Linear Regression
 
 Gradient descent for Logistic regression
 
-Feature extraction
+NaiveBayes
 
-Cross Validation
+Nearest Neighbors for OCR
 
 Conditional probability estimation
 
-boosted decision trees and random forests
+Perceptron_Feature_extraction_Cross_Validation
+
+Non-linear Classifier
+
+  boosted decision trees 
+  random forests
